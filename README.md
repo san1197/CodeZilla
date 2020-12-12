@@ -2,7 +2,7 @@
 **SER 502 Project: Compiler and Virtual Machine for a Programming Language**
 
 
-**Sample CodeZilla Code to add two numbers**
+**Sample CodeZilla code snippet to add two numbers**
 ```bash
 #program to add two numbers
 start;
@@ -25,7 +25,7 @@ end;
 ```
 
 **CodeZilla Output**
-![codezilla](output.png)
+![Output](output.png)
 
 **Requirements:**
 - Python3

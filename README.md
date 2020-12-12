@@ -1,8 +1,8 @@
 ![codezilla](codezilla.png)
 **SER 502 Project: Compiler and Virtual Machine for a Programming Language**
 
-** Source Code **
-[Code](addtwonumbers.cz)
+**Source Code**
+[Code](https://raw.githubusercontent.com/san1197/CodeZilla/master/data/addtwonumbers.cz)
 
 **Requirements:**
 - Python3

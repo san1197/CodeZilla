@@ -25,7 +25,7 @@ end;
 ```
 
 **CodeZilla Output**
-![Output](output.png)
+![output](codezilla.png)
 
 **Requirements:**
 - Python3

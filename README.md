@@ -1,8 +1,18 @@
 ![codezilla](codezilla.png)
-#SER 502 Project: Compiler and Virtual Machine for a Programming Language
+# Compiler and Virtual Machine for a Programming Language
+
+## Features of CodeZilla Programming Language
+- Operators and primitive types.
+- Data types - boolean, int, float, double, string.
+- Operators - assignment, ternary, if-else, for, while.
+- Supports code with user input prompts (read).
+- Comparison operators <, <=, >, >=, == are implemented.
+- Single line comments can be made anywhere in the code.
+- Int and float datatypes are supported.
+- Paranthesis in expression assignment.
 
 
-**Sample CodeZilla code snippet to add two numbers:**
+**Sample CodeZilla code(.cz) to add two numbers:**
 ```bash
 #program to add two numbers
 start;
@@ -36,12 +46,6 @@ end;
 
 **Tool used:** Python, Atom, SWIPL, SWI-SH
 
-## YouTube link
-[CodeZilla](https://www.youtube.com/watch?v=pqQUxUurmqc&t=470s)
-
-## Presentation link
-[Presentation slides PDF](/doc/Presentation.pdf)
-
 ## Installation
 - Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries required for the lexical analyzer.
 ```bash
@@ -49,7 +53,7 @@ end;
     pip install simplejson
 ```
 
-# Execution
+# Execution - How to Run?
 ## Runtime steps
 - Import project folder in your local system.
 - Create the CodeZilla (.cz) file in 'data' folder.
@@ -84,9 +88,9 @@ end;
 ```
 - When prompted, input the desired file's name to obtain the output.
 
-## Extra features added
-- Supports code with user input prompts (read).
-- Comparison operators <, <=, >, >=, == are implemented.
-- Single line comments can be made anywhere in the code.
-- Int and float datatypes are supported.
-- Paranthesis in expression assignment.
+
+## YouTube link
+[CodeZilla](https://www.youtube.com/watch?v=pqQUxUurmqc&t=470s)
+
+## Presentation link
+[Presentation slides PDF](/doc/Presentation.pdf)

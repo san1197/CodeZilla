@@ -1,8 +1,8 @@
 ![codezilla](codezilla.png)
-**SER 502 Project: Compiler and Virtual Machine for a Programming Language**
+#SER 502 Project: Compiler and Virtual Machine for a Programming Language
 
 
-**Sample CodeZilla code snippet to add two numbers**
+**Sample CodeZilla code snippet to add two numbers:**
 ```bash
 #program to add two numbers
 start;
@@ -25,6 +25,7 @@ end;
 ```
 
 **CodeZilla Output**
+
 ![output](output.PNG)
 
 **Requirements:**

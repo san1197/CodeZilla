@@ -1,8 +1,31 @@
 ![codezilla](codezilla.png)
 **SER 502 Project: Compiler and Virtual Machine for a Programming Language**
 
-**Source Code**
-[Code](https://raw.githubusercontent.com/san1197/CodeZilla/master/data/addtwonumbers.cz)
+
+**Sample CodeZilla Code to add two numbers**
+```bash
+#program to add two numbers
+start;
+
+var a;
+var b;
+var c;
+
+c = 0;
+
+read a endread;
+read b endread;
+
+c = a + b;
+
+show << sum of two numbers is >> endshow;
+show c endshow;
+
+end;
+```
+
+**CodeZilla Output**
+![codezilla](output.png)
 
 **Requirements:**
 - Python3
